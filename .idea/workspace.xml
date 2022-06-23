@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d5b11ec-1cf9-432a-bbbc-07715dde309f" name="Changes" comment="chapter 3">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankApp/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankApp/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankApp/BankMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankApp/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankApp/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankApp/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter14/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter14/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/DiaryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diary/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/BillingInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/CardType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/CreditCardInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/EStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EStore/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/HealthProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/HealthProfileMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/HeartRates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/PetrolPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/roundoff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Tortoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/TortoiseAndHareRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classworks/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classworks/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classworks/SchoolManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classworks/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classworks/string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekend/CurrentTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/BankApp/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/BankApp/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/BankApp/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/BankApp/SavingsAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Diary/DiaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Diary/EntryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Diary/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/EStore/EStoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chapter3/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chapter3/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chapter3/ClockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chapter3/HealthProfileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chapter3/HeartRatesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chapter3/PetrolPurchaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/chapter7/TortoiseAndHareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/classworks/CourseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/classworks/SchoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/classworks/StudentTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29wFfbc2wNkpGzcAiUuw9dmcoRw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "full.screen.before.presentation.mode": "false",
+    "last_directory_selection": "C:/Users/DELL/IdeaProjects/java/src",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapter3" />
+      <recent name="classworks" />
+      <recent name="chapter7" />
+      <recent name="tdd" />
+      <recent name="chapter9" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="EStore" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="classworks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SchoolMain">
+    <configuration name="BankMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankApp.BankMain" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BankApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvoiceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.InvoiceMain" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter14.MyString" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.SchoolMain" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="schoolmanagementsystem.SchoolManagementSystem" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="schoolmanagementsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SchoolMain" />
+        <item itemvalue="Application.InvoiceMain" />
+        <item itemvalue="Application.BankMain" />
+        <item itemvalue="Application.SchoolManagementSystem" />
+        <item itemvalue="Application.MyString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5b11ec-1cf9-432a-bbbc-07715dde309f" name="Changes" comment="" />
+      <created>1654016350464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654016350464</updated>
+      <workItem from="1654016353528" duration="1864000" />
+      <workItem from="1654076754531" duration="18396000" />
+      <workItem from="1654219175754" duration="362000" />
+      <workItem from="1654357767104" duration="36601000" />
+      <workItem from="1654538743258" duration="156000" />
+      <workItem from="1654797284397" duration="92688000" />
+      <workItem from="1655651839623" duration="27564000" />
+    </task>
+    <task id="LOCAL-00001" summary="chapter 3">
+      <created>1655828144916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655828144916</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chapter 3">
+      <created>1655922426111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655922426111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chapter 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
